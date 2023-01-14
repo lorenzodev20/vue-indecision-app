@@ -1,4 +1,4 @@
-# 03-fundamentos
+# Vue Indecision APP
 
 ## Project setup
 ```
